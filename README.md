@@ -39,12 +39,6 @@ yarn android
 ```
 Also i can run the app from the Xcode and Android Studio
 
-### Run tests
-
-```sh
-yarn test
-```
-
 ## Additional info
 
 ### The architecture and approach
